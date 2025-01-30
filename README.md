@@ -22,7 +22,7 @@ The primary user persona for this project is **Healthcare Policy Analysts**, who
 - Developing strategies to reduce healthcare costs while maintaining quality care.
 - Discovering regional disparities in healthcare expenditure to allocate resources more effectively.
 
-# Goals of the User Persona:
+# Goals of the User Persona
 1. **Reduce Healthcare Costs**: By identifying factors that drive high medical charges, the analyst can design targeted interventions (e.g., smoking cessation programs or weight management initiatives).
 2. **Identify High-Risk Groups**: Understanding how variables like smoking status, BMI, and age impact medical costs helps the analyst prioritize at-risk populations.
 3. **Inform Policy Decisions**: Insights from the data can guide the development of policies that promote equitable and cost-effective healthcare.
