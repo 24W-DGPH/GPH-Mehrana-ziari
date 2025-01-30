@@ -43,7 +43,7 @@ These insights provide actionable and valuable information for healthcare policy
 - **dplyr**: A package for data manipulation and cleaning.
 
 # Links
-- [GitHub Repository](https://github.com/Mehrana-Ziari/Medical-Cost)
+- [GitHub Repository](https://github.com/24W-DGPH/GPH-Mehrana-ziari)
 
 - [Shiny Application](https://fatemehziari.shinyapps.io/med_cost/)
 
